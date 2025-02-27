@@ -776,7 +776,7 @@ async def on_message(message):
             `@Bot academic: <テーマ>` - ArXiv論文を含む学術リサーチ
             `@Bot paper: <ArXiv ID>` - 特定の論文を詳細分析
             `@Bot save: <コマンド>` - 結果をファイルとして保存
-            `@Bot help` - このヘルプメッセージを表示
+            `@Bot !help` - このヘルプメッセージを表示
             
             **例:**
             `@Bot academic: 強化学習の最新動向`

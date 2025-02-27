@@ -41,7 +41,7 @@ ArXiv論文を検索して日本語で要約・分析するDiscord Botです。G
 
 4. Botを起動
    ```bash
-   python bot.py
+   python disco_arxiv.py
    ```
 
 ## 必要なライブラリ

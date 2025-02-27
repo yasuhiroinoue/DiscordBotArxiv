@@ -2,8 +2,6 @@
 
 ArXiv論文を検索して日本語で要約・分析するDiscord Botです。Gemini 2.0を活用して学術研究をサポートします。
 
-![ArXiv Research Bot](https://i.imgur.com/placeholder.png)
-
 ## 主な機能
 
 - **学術論文の検索**: ArXivから最新の論文を検索
